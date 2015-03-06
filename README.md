@@ -3,7 +3,7 @@ Author: Gonzalo Marcote - gonzalomarcote@gmail.com
 
 ##### Docker image with a minimal installation of apache and Centos7 64bits
 
-*Under construction...*
+That's it. Just Centos7 with apache installed.
 
 You can download the "Dockerfile" from git with:
 
