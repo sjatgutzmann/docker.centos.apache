@@ -5,10 +5,10 @@ Author: Gonzalo Marcote - gonzalomarcote@gmail.com
 
 That's it. Just Centos7 with apache installed.
 
-To download it:
+To download the image:
 
 `# docker pull gonzalomarcote/docker-apache-centos7`
 
-You can download the "Dockerfile" from git with:
+To download the "Dockerfile" from git:
 
 `# git clone https://github.com/gonzalomarcote/docker-apache-centos7 docker-apache-centos7`
