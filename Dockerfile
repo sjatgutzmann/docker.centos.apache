@@ -1,4 +1,4 @@
-# Version: 0.0.1 for Yodial webservice
+# Version: 0.0.1 - Docker image with a minimal installation of apache and Centos7 64bits 
 FROM centos:latest
 MAINTAINER Gonzalo Marcote "gonzalomarcote@gmail.com"
 RUN yum -y update
