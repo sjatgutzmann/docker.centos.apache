@@ -1,10 +1,9 @@
 # docker-apache-centos7
 Author: Gonzalo Marcote - gonzalomarcote@gmail.com
 
-Docker image with a minimal installation of apache and Centos7 64bits
----------------------------------------------------------------------
+##### Docker image with a minimal installation of apache and Centos7 64bits
 
-Under construction...
+*Under construction...*
 
 You can download the "Dockerfile" from git with:
 
